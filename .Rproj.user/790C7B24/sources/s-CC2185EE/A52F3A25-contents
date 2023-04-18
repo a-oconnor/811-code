@@ -1,0 +1,8 @@
+=================================================
+having only feedlot as random/fixed effect 
+size= 1552 
+                          p0       p1     p1-p0       OR
+IPW random          0.643170 0.498521 -0.144649 0.551526
+IPW fixed           0.639555 0.504432 -0.135123 0.573669
+direct/Univariate   0.651042 0.470287 -0.180755 0.475868
+Mbased/Multivariate 0.651299 0.469995 -0.181304 0.474774
