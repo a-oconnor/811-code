@@ -53,9 +53,10 @@ with (vaccine, (table(sex)))
 
 help(table)
 
+sum(is.na(vaccine$producer))
+
 with (vaccine,(table(sex, producer)))  
 # create a cross sectional table
-
 
 mean(vaccine$weight) 
 # should return a problem
